@@ -1,5 +1,3 @@
-Install these for running the project locally!
-
 flask
 flask-cors
 google-genai
