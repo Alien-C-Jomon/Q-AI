@@ -1,0 +1,11 @@
+Run these commands inside Q-AI Folder!
+
+python -m venv qai-env
+qai-env\Scripts\activate
+pip install -r requirements.txt
+
+
+After the above run this!
+
+cd Website
+npm install
